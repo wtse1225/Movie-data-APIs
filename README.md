@@ -1,11 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Technologies Used: React, NextJS, SWR, Bootstrap, MongoDB, JavaScript
-Usage:
+**Technologies Used**: React, NextJS, SWR, Bootstrap, MongoDB, JavaScript
+
+**Usage:**
 The project aims to create a rich user interface for accessing movie data. By utilizing React and Next.js, it provides a responsive and visually appealing UI. Users can navigate through different pages of movie data, view detailed information about specific movies, and learn more about the developer. The project integrates with the "Movies API" from Assignment 1 to fetch and display movie data.
 
 
-Features:
+**Features:**\
 Movie Component: The "Movie" component (pages/movies/[title].js) displays the title of a movie.
 
 About Component: The "About" component (pages/about.js) provides information about the developer and a specific movie retrieved from the "Movies API" from Assignment 1. It uses the "getStaticProps" function to fetch data from the API and renders it.
