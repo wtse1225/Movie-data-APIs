@@ -1,5 +1,8 @@
 Web link: https://fantastic-monstera-8a289f.netlify.app/
 
+![image](https://github.com/wtse1225/Movie-data-APIs/assets/105259859/14298b24-7310-4f92-b42c-9d0a226e00f6)
+
+
 **Technologies Used**: React, NextJS, SWR, Bootstrap, MongoDB, JavaScript
 
 **Usage:**
